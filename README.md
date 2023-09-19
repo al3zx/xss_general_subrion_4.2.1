@@ -8,3 +8,6 @@
 
 ## POC
 
+![xss1](https://github.com/al3zx/xss_general_subrion_4.2.1/assets/20266218/d9641e76-cf0c-4803-aad4-726f52fb995e)
+
+![xss2](https://github.com/al3zx/xss_general_subrion_4.2.1/assets/20266218/59ff87d5-d6f5-4cb5-8148-f2cae446427b)
